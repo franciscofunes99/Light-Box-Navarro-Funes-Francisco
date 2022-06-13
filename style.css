@@ -159,7 +159,7 @@
         object-fit: cover;
     }
     .galeria img:hover{
-        transform: scale(1.1);
+        transform: scale(1.2);
     }
 
     .pie {
@@ -260,7 +260,7 @@
     filter: invert(58%) sepia(26%) saturate(1214%) hue-rotate(21deg) brightness(107%) contrast(102%);
 }
 .redes1 img:hover{
-    transform: scale(1.1);
+    transform: scale(1.2);
 }
 
 
